@@ -9,7 +9,7 @@ export const siteConfig = {
 
   url: 'https://pdfrang.recipeoai.com',
 
-  ogImage: 'https://pdfrang.recipeoai.com/images/og-image.png',
+  ogImage: 'https://www.recipeoai.com/images/og-image.png',
 
   links: {},
 
