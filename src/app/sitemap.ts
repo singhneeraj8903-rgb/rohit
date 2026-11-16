@@ -11,7 +11,7 @@ import { locales, type Locale } from '@/lib/i18n/config';
 import { getAllTools } from '@/config/tools';
 
 // PDFRang website URL
-const BASE_URL = 'https://www.pdfrang.recipeoai.com';
+const BASE_URL = 'https://www.recipeoai.com';
 
 // Required for static export
 export const dynamic = 'force-static';
